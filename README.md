@@ -1,4 +1,5 @@
-# LDL-LDM
+# Large Margin Weighted k-Nearest Neighbors Label Distribution Learning for Classification
+
 Code for our TNNLS'23 paper "Large Margin Weighted k-Nearest Neighbors Label Distribution Learning for Classification"
 
 In this article, we design two novel LDL methods based on the k-Nearest Neighbors (kNN) approach for classification. First, we propose the Large margin Weighted kNN LDL (LW-kNNLDL). It learns a weight vector for the kNN algorithm to learn label distribution and implement large margin to address the objective inconsistency. Second, we put forward the Large margin Distance-weighted kNN LDL (LDkNN-LDL) that learns distance-dependent weight vectors to consider the difference in the neighborhoods of different instances.
