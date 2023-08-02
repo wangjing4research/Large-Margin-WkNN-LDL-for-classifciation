@@ -18,7 +18,7 @@ Use our code and cite
 
 # How to use
 
-run LWkNN-LDL: python run_dweighted_knn.py
+run LWkNN-LDL: python run_dweighted_knn.py \
 run LDkNN-LDL: python run_weighted_knn.py
 
 
