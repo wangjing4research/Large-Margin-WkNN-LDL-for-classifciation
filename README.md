@@ -7,11 +7,11 @@ In this article, we design two novel LDL methods based on the k-Nearest Neighbor
 
 Use our code and cite
 >@article{wang_large_2023, \
-	title = {Large Margin Weighted k-Nearest Neighbors Label Distribution Learning for Classification}, \
-	journal = {IEEE Transactions on Neural Networks and Learning Systems},\
-	author = {Wang, Jing and Geng, Xin},\
-	year = {2023},\
-  doi={10.1109/TNNLS.2023.3297261},
+	>title = {Large Margin Weighted k-Nearest Neighbors Label Distribution Learning for Classification}, \
+	>journal = {IEEE Transactions on Neural Networks and Learning Systems},\
+	>author = {Wang, Jing and Geng, Xin},\
+	>year = {2023},\
+  	>doi={10.1109/TNNLS.2023.3297261},
 >}
 
 
